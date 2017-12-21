@@ -16,7 +16,7 @@
 # -----------------------------------------------------------------------------
 logs
 nbproject
-output
+#output
 # Next line commented out, because test/webapp-3.0-virtual-library and
 # test/webapp-3.0-virtual-webapp use it:
 # target
@@ -24,9 +24,9 @@ work
 build.properties
 mvn.properties
 .checkstyle
-.classpath
+#.classpath
 .fbprefs
-.project
+#.project
 .settings
 *.iml
 *.asc
